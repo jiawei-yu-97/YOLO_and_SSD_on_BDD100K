@@ -1,0 +1,6 @@
+torchvision
+albumentations==0.5.2
+torchvision
+PIL
+torcsummary
+terminaltables
